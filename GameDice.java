@@ -19,6 +19,7 @@ public class GameDice {
          * two higher or two lower values.
          * User wins
          * or else User loses.
+         * testing
          */
 
         if (sumChoice > sumScore + 2 || sumChoice < sumScore - 2)
